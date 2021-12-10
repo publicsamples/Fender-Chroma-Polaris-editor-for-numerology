@@ -14,6 +14,6 @@ Numerology: http://www.five12.com/hq/N4
 ## **Support this project**
 
 [
-![dx-15-kontakt](https://www.modularsamples.com/img/msdx.png)
+![dx-15-kontakt](https://www.modularsamples.com/img/dx15.png)
 ](https://www.modularsamples.com/dx-15-for-kontakt/)
 
